@@ -1,0 +1,37 @@
+trader;dataset;returnpctperday;finalportfoliovalue
+Buy and hold;train;0.04602;3.3e+06
+Buy and hold;test;0.06118;3.7e+03
+Trust experts, prefer A;train;0.40749;1.7e+26
+Trust experts, prefer A;test;0.24032;2.2e+04
+Trust experts for sell only;train;0.55106;1.1e+34
+Trust experts for sell only;test;0.35700;7.2e+04
+Default;train;0.477469;1.1e+30
+Default;test;0.344228;6.3e+04
+3 hidden layers;train;0.529115;7.1e+32
+3 hidden layers;test;0.327418;5.4e+04
+1 hidden layer;train;0.486358;3.3e+30
+1 hidden layer;test;0.289329;3.7e+04
+No hidden layers;train;0.356273;2.8e+23
+No hidden layers;test;0.256055;2.6e+04
+RELU;train;0.482899;2.2e+30
+RELU;test;0.308751;4.4e+04
+5 actions per company;train;0.457214;8.7e+28
+5 actions per company;test;0.310872;4.5e+04
+More elaborate state;train;0.446793;2.4e+28
+More elaborate state;test;0.338834;6.0e+04
+Learning rate 0.01;train;0.512938;9.3e+31
+Learning rate 0.01;test;0.347298;6.5e+04
+Learning rate 0.0001;train;0.408135;1.8e+26
+Learning rate 0.0001;test;0.283047;3.4e+04
+Min. epsilon 0.1;train;0.483981;2.5e+30
+Min. epsilon 0.1;test;0.346357;6.5e+04
+Discount factor 0.5;train;0.524234;3.8e+32
+Discount factor 0.5;test;0.328107;5.4e+04
+Discount factor 0.9;train;0.342427;4.9e+22
+Discount factor 0.9;test;0.245913;2.4e+04
+SGD;train;0.467430;3.1e+29
+SGD;test;0.308751;4.4e+04
+SGD, no hidden layers;train;0.076300;1.5e+08
+SGD, no hidden layers;test;0.105557;5.8e+03
+Nadam;train;0.514416;1.1e+32
+Nadam;test;0.344441;6.4e+04
